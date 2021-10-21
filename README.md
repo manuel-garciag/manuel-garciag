@@ -13,8 +13,6 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on Github Project, Youtube, My Portfolio
 
